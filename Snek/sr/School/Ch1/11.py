@@ -1,0 +1,1 @@
+print("Reg\nReuel\nPrarkrer")
