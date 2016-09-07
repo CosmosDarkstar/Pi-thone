@@ -1,1 +1,0 @@
-#14-17 I am at the moment incapable of creating because of the time constrains I have stupidly created for myself, but also that graphics in python are hard.
